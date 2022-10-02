@@ -14,9 +14,12 @@ Learn more: https://arxiv.org/abs/1911.09296
 ## ML Models
 ![Disaster Damage Alert Integrated System (3)](https://user-images.githubusercontent.com/114417539/193471754-fefe29b7-7fbe-4f19-9a47-387aae57b5a7.jpg)
 
+## Image Upload
+![Disaster Damage Alert Integrated System (6)](https://user-images.githubusercontent.com/114417539/193473318-71867a41-6967-4c91-87d4-c3d973c26e35.jpg)
 
-## Back End
-![Disaster Damage Alert Integrated System (4)](https://user-images.githubusercontent.com/114417539/193471753-21aaa567-d401-4834-8465-d9851fd32d72.jpg)
+## Mapping System
+![Disaster Damage Alert Integrated System (7)](https://user-images.githubusercontent.com/114417539/193473323-040c3961-2d6e-4aac-af22-fe0a8aeb5345.jpg)
 
 ## System Architecture
-![Disaster Damage Alert Integrated System (5)](https://user-images.githubusercontent.com/114417539/193471751-f7d5e34a-95b3-4352-9f27-a1234bdd88b8.jpg)
+![Disaster Damage Alert Integrated System (8)](https://user-images.githubusercontent.com/114417539/193473330-a6d7db42-7104-45fd-89bf-05d148310927.jpg)
+

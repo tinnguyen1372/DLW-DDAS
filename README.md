@@ -5,7 +5,7 @@
 ## Abstract
 ![Disaster Damage Alert Integrated System (1)](https://user-images.githubusercontent.com/114417539/193471712-da024f8c-bc1d-4118-8d64-7b3ed27ec40e.jpg)
 
-## Dataset
+## Dataset.
 Download: https://xview2.org/
 Learn more: https://arxiv.org/abs/1911.09296
 
